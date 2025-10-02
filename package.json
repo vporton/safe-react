@@ -158,7 +158,7 @@
     ]
   },
   "dependencies": {
-    "@gnosis.pm/safe-apps-sdk": "1.0.2",
+    "@gnosis.pm/safe-apps-sdk": "2.2.0",
     "@gnosis.pm/safe-apps-sdk-v1": "npm:@gnosis.pm/safe-apps-sdk@0.4.2",
     "@gnosis.pm/safe-contracts": "1.1.1-dev.2",
     "@gnosis.pm/safe-react-components": "https://github.com/gnosis/safe-react-components.git#bf3a84486b7353bd25447ddff39c406f6fafecc6",
@@ -170,7 +170,7 @@
     "@openzeppelin/contracts": "3.1.0",
     "@sentry/react": "^5.28.0",
     "@sentry/tracing": "^5.28.0",
-    "@truffle/contract": "^4.3.0",
+    "@truffle/contract": "^4.6.31",
     "async-sema": "^3.1.0",
     "axios": "0.21.1",
     "bignumber.js": "9.0.1",
@@ -221,9 +221,9 @@
     "reselect": "^4.0.0",
     "semver": "^7.3.2",
     "styled-components": "^5.2.1",
-    "web3": "1.2.11",
-    "web3-core": "^1.2.11",
-    "web3-eth-contract": "^1.2.11",
+    "web3": "4.0.1",
+    "web3-core": "^4.0.1",
+    "web3-eth-contract": "^4.0.1",
     "web3-utils": "^1.2.11"
   },
   "devDependencies": {
