@@ -213,7 +213,7 @@
     "react-qr-reader": "^2.2.1",
     "react-redux": "7.2.2",
     "react-router-dom": "5.2.0",
-    "react-scripts": "^4.0.1",
+    "react-scripts": "^5.0.0",
     "react-window": "^1.8.6",
     "redux": "4.0.5",
     "redux-actions": "^2.6.5",
@@ -221,7 +221,7 @@
     "reselect": "^4.0.0",
     "semver": "^7.3.2",
     "styled-components": "^5.2.1",
-    "web3": "1.2.11",
+    "web3": "4.0.1",
     "web3-core": "^1.2.11",
     "web3-eth-contract": "^1.2.11",
     "web3-utils": "^1.2.11"
